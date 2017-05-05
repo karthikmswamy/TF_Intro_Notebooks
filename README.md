@@ -9,6 +9,7 @@ Once Anaconda is installed, open a command prompt and test by running the follow
 
 If successful, this command would open a browser window.
 Close the browser, hit Ctrl+C on your command prompt and run the following command: pip install tensorflow.
+
 If all goes well, you can clone this repository and run jupyter-notebook from the folder where you downloaded the repo.
 
 This repository is built on the notebooks available from https://github.com/kazunori279/TensorFlow-Intro/
